@@ -1,2 +1,2 @@
-# LSP-Paint
+# LSP Paint
 Lite Engine Sprite Editor
